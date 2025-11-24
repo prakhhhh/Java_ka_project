@@ -71,6 +71,10 @@ This project is created as part of the **VITyarthi - Build Your Own Project** fl
    java Main
    ```
 
+OR
+
+CLICK run.bat and let it ride.
+
 ## Usage
 
 1. When you run the program, you will see a **welcome menu**:
